@@ -1,0 +1,4 @@
+D:\OanTuXi\OanTuXi\bin\Debug\OanTuXi.exe
+D:\OanTuXi\OanTuXi\bin\Debug\OanTuXi.pdb
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.exe
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.pdb
